@@ -46,34 +46,44 @@ Input Image
 ## 🧠 Model Details
 
 <details>
-<summary>📊 Click to view details</summary>
+<summary>📊 View Model Info</summary>
 
-- U-Net  
-- Input: 224×224  
-- Output: Binary mask  
+- Architecture: U-Net  
+- Input: 224 × 224  
+- Output: Binary Mask  
 - Threshold: 0.5  
-- PyTorch  
+- Framework: PyTorch  
 
 </details>
 
+---
 
-## 🔬 Preprocessing
+## 🔬 Preprocessing & Inference
 
 <details>
-<summary>⚙️ Click to expand</summary>
+<summary>⚙️ View Processing Steps</summary>
 
-- BGR → RGB  
-- Resize  
-- Normalize  
-- Convert to tensor  
+- BGR → RGB conversion  
+- Resize (224 × 224)  
+- Normalize [0,1]  
+- Tensor conversion  
+
+### Inference:
+- Sigmoid applied  
+- Threshold = 0.5  
+- Mask generated  
+
+### Detection:
+- White pixels → Manipulated  
 
 </details>
 
+---
 
 ## 🔄 Model Comparison
 
 <details>
-<summary>📈 View comparison</summary>
+<summary>📈 Compare Models</summary>
 
 | Feature | Initial Model | U-Net |
 |--------|-------------|------|
@@ -83,21 +93,29 @@ Input Image
 
 </details>
 
+---
 
 ## 🌐 Web Application
 
 <details>
-<summary>💻 View details</summary>
+<summary>💻 View Details</summary>
 
-Backend:
-- Flask  
+### Backend
+- Flask server  
 - Model inference  
+- Base64 mask output  
 
-Frontend:
+### Frontend
 - HTML + Tailwind  
-- Upload + result  
+- Upload + display  
+- Result visualization  
 
 </details>
+
+
+
+
+<
 
 
 ## 📂 Project Structure
