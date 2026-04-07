@@ -132,7 +132,7 @@ pip install flask torch torchvision opencv-python numpy
   ---
 
 ## 👩‍💻 Author
-Ammu Elizabeth Alexander
-Aiswarya Josy
-Anakha Prakash
-Abin Joseph
+-Ammu Elizabeth Alexander
+-Aiswarya Josy
+-Anakha Prakash
+-Abin Joseph
