@@ -131,8 +131,18 @@ pip install flask torch torchvision opencv-python numpy
 - Black → Real
   ---
 
-## 👩‍💻 Author
--Ammu Elizabeth Alexander
--Aiswarya Josy
--Anakha Prakash
--Abin Joseph
+## 🤝 Questions & Contributions
+
+**Let's connect or collaborate!**
+
+- Ammu Elizabeth Alexander — [ammuelizabethalexander@gmail.com](mailto:ammuelizabethalexander@gmail.com)
+- Anakha Prakash — [anakhaprakash229@gmail.com](mailto:anakhaprakash229@gmail.com)
+- Aiswrya Josy — [aiswaryajosy@gmail.com](mailto:aiswaryajosy@gmail.com)
+- Abin Joseph — [abinkjoseph2004@gmail.com](mailto:abinkjoseph2004@gmail.com)
+
+---
+
+<p align="center">
+  <b>🌟 Thank you for exploring our project!<br>
+</p>
+
