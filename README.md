@@ -257,7 +257,7 @@ python app.py
 
 - Ammu Elizabeth Alexander  
 - Anakha Prakash  
-- Aiswrya Josy  
+- Aiswarya Josy  
 - Abin Joseph  
 
 ---
