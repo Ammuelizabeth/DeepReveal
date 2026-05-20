@@ -1,5 +1,5 @@
 # 🕵️‍♂️ DeepReveal
-## AI-Generated Image Manipulation Detection using Deep Learning
+## A Pixel-Wise AI Content Detection using Deep Learning and Image Forensics
 
 <p align="center">
   <img src="images/home_page.png" width="100%">
